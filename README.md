@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)]()
+
 
 ### 👋 Olá! Me chamo Felipe Guimarães
 
@@ -15,7 +15,11 @@
 📅 Semestre atual: **5º / 8**
 
 📈 Progresso:  
-🟩🟩🟩🟩🟩⬜⬜⬜ (62%)
+<p>
+  <strong>Sistemas de Informação – Uni7</strong><br>
+  Semestre atual: <strong>5º / 8</strong><br><br>
+  <progress value="5" max="8"></progress> 62%
+</p>
 
 ---
 

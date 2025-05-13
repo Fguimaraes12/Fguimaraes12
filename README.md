@@ -1,5 +1,23 @@
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)]()
 
-[![](https://raw.githubusercontent.com/Guimar%C3%A3esFelipe6021/Guimar%C3%A3esFelipe6021/master/profile.gif)](https://github.com/Guimar%C3%A3esFelipe6021)
+### 👋 Olá! Me chamo Felipe Guimarães
+
+🎓 Estudante de **Sistemas de Informação** na [Uni7 - Centro Universitário 7 de Setembro](https://uni7.edu.br/) – Fortaleza, CE  
+💡 Interesses: **Inteligência Artificial**, **comportamento humano** e **o universo dos jogos**  
+🌱 Atualmente aprendendo tecnologias para desenvolvimento web (front e back-end)  
+📫 Contato: [Instagram](https://www.instagram.com/philiphe_12/) | [Email](mailto:guimaraesfelipe6021@gmail.com)
+
+---
+
+### 🎓 Progresso na Faculdade
+
+📚 Sistemas de Informação – Uni7  
+📅 Semestre atual: **5º / 8**
+
+📈 Progresso:  
+🟩🟩🟩🟩🟩⬜⬜⬜ (62%)
+
+---
 
 ### 🚧 Em Aprendizado
 
@@ -13,7 +31,7 @@
 
 #### Tecnologias
 
-![React.js](https://img.shields.io/badge/Learning-React-61DAFB?logo=react&logoColor=black)
+![React](https://img.shields.io/badge/Learning-React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Learning-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Learning-Express-000000?logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Learning-PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -24,9 +42,8 @@
 ![Git](https://img.shields.io/badge/Learning-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Learning-Docker-2496ED?logo=docker&logoColor=white)
 
-### Projetos
+---
 
-Estou começando a trabalhar em alguns projetos. Em breve compartilho aqui!
+### 📂 Projetos
 
-
-
+🚧 Em breve!

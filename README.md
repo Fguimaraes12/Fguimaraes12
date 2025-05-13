@@ -1,7 +1,7 @@
 ### 👋 Olá! Me chamo Felipe Guimarães
 
 🎓 Estudante de **Sistemas de Informação** na [Uni7 - Centro Universitário 7 de Setembro](https://uni7.edu.br/) – Fortaleza, CE  
-💡 Interesses: **Inteligência Artificial**, **comportamento humano** e **o universo dos jogos**  
+💡 Interesses: **Inteligência Artificial**, **neurociência** e **o universo dos jogos**  
 🌱 Atualmente aprendendo tecnologias para desenvolvimento web (front e back-end)
 
 ---

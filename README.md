@@ -1,25 +1,18 @@
-
-
 ### 👋 Olá! Me chamo Felipe Guimarães
 
 🎓 Estudante de **Sistemas de Informação** na [Uni7 - Centro Universitário 7 de Setembro](https://uni7.edu.br/) – Fortaleza, CE  
 💡 Interesses: **Inteligência Artificial**, **comportamento humano** e **o universo dos jogos**  
-🌱 Atualmente aprendendo tecnologias para desenvolvimento web (front e back-end)  
-📫 Contato: [Instagram](https://www.instagram.com/philiphe_12/) | [Email](mailto:guimaraesfelipe6021@gmail.com)
+🌱 Atualmente aprendendo tecnologias para desenvolvimento web (front e back-end)
 
 ---
 
 ### 🎓 Progresso na Faculdade
 
 📚 Sistemas de Informação – Uni7  
-📅 Semestre atual: **5º / 8**
+📅 Semestre atual: **1º / 8**
 
 📈 Progresso:  
-<p>
-  <strong>Sistemas de Informação – Uni7</strong><br>
-  Semestre atual: <strong>5º / 8</strong><br><br>
-  <progress value="5" max="8"></progress> 62%
-</p>
+🔲🔲🔲🔲🔲🔲🔲🟩 1º Semestre - 12.5%
 
 ---
 
@@ -48,6 +41,15 @@
 
 ---
 
+### 📫 Contato
+
+[![Instagram](https://img.shields.io/badge/Instagram-@philiphe_12-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/philiphe_12/)  
+[![Email](https://img.shields.io/badge/Email-guimaraesfelipe6021@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:guimaraesfelipe6021)
+
+---
+
 ### 📂 Projetos
 
 🚧 Em breve!
+
+

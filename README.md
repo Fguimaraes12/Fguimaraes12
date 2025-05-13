@@ -1,4 +1,4 @@
-```markdown
+
 [![](https://raw.githubusercontent.com/Guimar%C3%A3esFelipe6021/Guimar%C3%A3esFelipe6021/master/profile.gif)](https://github.com/Guimar%C3%A3esFelipe6021)
 
 ### Linguagens
@@ -30,4 +30,4 @@ Estou começando a trabalhar em alguns projetos. Em breve compartilho aqui!
 
 <a href="https://github.com/Guimar%C3%A3esFelipe6021"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Guimar%C3%A3esFelipe6021&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=false&theme=default" /></a>
 
-```
+

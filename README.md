@@ -12,7 +12,7 @@
 📅 Semestre atual: **2º / 8**
 
 📈 Progresso:  
-🔲🔲🔲🔲🔲🔲🟩🟩 1º Semestre - 25.0%
+🔲🔲🔲🔲🔲🔲🟩🟩 2º Semestre - 25.0%
 
 ---
 

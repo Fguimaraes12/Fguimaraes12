@@ -236,22 +236,10 @@ Cursando o 3º semestre com foco em desenvolvimento web full stack.
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d17&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight&hide_border=true&background=0d0d17&stroke=a78bfa&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d17&title_color=a78bfa&text_color=c4b5fd" width="49%"/>
-
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fguimaraes12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d17&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd" width="49%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fguimaraes12&theme=tokyonight&hide_border=true&background=0d0d17&stroke=a78bfa&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fguimaraes12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d17&title_color=a78bfa&text_color=c4b5fd" width="49%"/> </div>
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Fguimaraes12&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/> </div>
-
----
 
 ## 📈 Atividade de Contribuições
 

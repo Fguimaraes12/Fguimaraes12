@@ -265,11 +265,7 @@ Cursando o 3º semestre com foco em desenvolvimento web full stack.
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
+<div align="center"> <img src="https://raw.githubusercontent.com/Fguimaraes12/Fguimaraes12/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div>
 
 ---
 

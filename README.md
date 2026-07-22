@@ -263,32 +263,6 @@ Cursando o 3º semestre com foco em desenvolvimento web full stack.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center"> <img src="https://raw.githubusercontent.com/Fguimaraes12/Fguimaraes12/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div>
-
----
-
-## 🎯 Foco Atual
-
-```yaml
-Aprendendo:
-  - FastAPI e integração backend com PostgreSQL
-  - Padrões avançados de arquitetura em Next.js
-  - Estruturas de dados e algoritmos
-
-Construindo:
-  - Ritmo — tracker de produtividade e hábitos
-  - DevChallenge — evolução para plataforma web competitiva
-
-Explorando:
-  - Design systems monocromáticos (OKLCH)
-  - Modo "battle royale" para desafios de código
-
-Aberto para:
-  - Vagas de Frontend Developer Júnior
-  - Colaboração em projetos open source
-```
 
 ---
 
@@ -303,12 +277,4 @@ Aberto para:
 
 </div>
 
----
 
-<div align="center">
-
-*"Código limpo hoje, sistema escalável amanhã."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>

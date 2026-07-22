@@ -249,11 +249,7 @@ Cursando o 3º semestre com foco em desenvolvimento web full stack.
 
 ## 🏅 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Fguimaraes12&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/> </div>
 
 ---
 

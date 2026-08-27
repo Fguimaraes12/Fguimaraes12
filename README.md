@@ -2,7 +2,7 @@
 
 ### ✏️ 👋 Sobre mim:
 
-- 🎓 Sou estudante de Sistemas de Informação
+- 🎓 Sou estudante de Sistemas de Informação no 4° semestre.
 - 🚀 Conhecimentos com React, NextJs, Javascript, Typescript, Tailwind
 - 💬 Pergunte-me sobre React, Next.js e Tailwind CSS
 

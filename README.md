@@ -1,8 +1,13 @@
-# Felipe Guimarães
+# Hi 👋, eu sou o Felipe Guimarães
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Web`**
 
-Estudante de Sistemas de Informação. Desenvolvedor front-end com experiência em React, atualmente estudando Next.js e Rust.
+### ✏️ 👋 Sobre mim:
+
+- 🎓 Sou estudante de Sistemas de Informação
+- 🚀 Conhecimentos com React, NextJs, Javascript, Typescript, Tailwind
+- 💬 Pergunte-me sobre React, Next.js e Tailwind CSS
+
 
 ---
 

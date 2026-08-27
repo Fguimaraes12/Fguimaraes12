@@ -22,11 +22,6 @@ Estudante de Sistemas de Informação, construindo projetos práticos para apren
 <br/>
 <br/>
 
-### 📌 Em progresso
-
-- 🦀 **CLI em Rust** — fundamentos da linguagem: ownership, borrowing, lifetimes, traits, structs, enums, módulos, error handling
-- 🔐 **Painel de Login com JWT** — front-end em React/Next.js consumindo uma API fake, com foco em autenticação (cookies `httpOnly`, rotas protegidas, TanStack Query)
-
 ### 📊 Estatísticas
 
 <p>

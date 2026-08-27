@@ -1,7 +1,5 @@
 # Hi 👋, eu sou o Felipe Guimarães
 
-**`Desenvolvedor Web`**
-
 ### ✏️ 👋 Sobre mim:
 
 - 🎓 Sou estudante de Sistemas de Informação

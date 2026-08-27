@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Estudante de Sistemas de Informação, construindo projetos práticos para aprender os fundamentos de verdade — não só a sintaxe. Atualmente com foco em React/Next.js e reforçando bases em Rust e JavaScript puro.
+Estudante de Sistemas de Informação. Desenvolvedor front-end com experiência em React, atualmente estudando Next.js e Rust.
 
 ---
 
@@ -18,16 +18,6 @@ Estudante de Sistemas de Informação, construindo projetos práticos para apren
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Rust" title="Rust" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img align="left" alt="GitHub Stats" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Fguimaraes12&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" />
-  <img align="left" alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fguimaraes12&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" />
-</p>
 
 <br/>
 <br/>

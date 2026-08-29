@@ -15,4 +15,4 @@
 
 ### 📫 Contato
 
-<p align="left"> <a href="[https://linkedin.com/in/felipe-guimarães-1b323a351](https://www.linkedin.com/in/felipe-guimar%C3%A3es-1b323a351/)"> <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" /> </a> <a href="mailto:guimaraesfelipe6021@gmail.com"> <img alt="E-mail" title="E-mail" src="https://custom-icon-badges.demolab.com/badge/E--mail-D14836?style=for-the-badge&logo=mail&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/felipe-guimar%C3%A3es-1b323a351/"> <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" /> </a> <a href="mailto:guimaraesfelipe6021@gmail.com"> <img alt="E-mail" title="E-mail" src="https://custom-icon-badges.demolab.com/badge/E--mail-D14836?style=for-the-badge&logo=mail&logoColor=white" /> </a> </p>
